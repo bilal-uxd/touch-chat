@@ -96,7 +96,7 @@ const ChildCard = ({ card }) => {
       { 
         card?.image && (
           <span className='image-container'>
-            <img src={`public/images/cards/${card.image}`} alt={card?.text || 'Card image'} />
+            <img src={`/public/images/cards/${card.image}`} alt={card?.text || 'Card image'} />
           </span>
         )
       }

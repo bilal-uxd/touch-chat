@@ -1,0 +1,542 @@
+[
+    {
+        "text": "people",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-blue-1"
+    },
+    {
+        "text": "questin",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-blue-2"
+    },
+    {
+        "text": "places",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-blue-1"
+    },
+    {
+        "text": "time",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-blue-3"
+    },
+    {
+        "text": "social",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-blue-1"
+    },
+    {
+        "text": "descrb",
+        "image": "no-image.png",
+        "className": "text-with-image full-caps bg-violet-1"
+    },
+    {
+        "text": "good",
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-1"
+    },
+    {
+        "text": "more",
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-1"
+    },
+    {
+        "text": "-ed",
+        "image": "",
+        "className": "only-text bg-blue-1"
+    },
+    {
+        "text": "-ing",
+        "image": "",
+        "className": "only-text bg-blue-1"
+    },
+    {
+        "text": "-s",
+        "image": "",
+        "className": "only-text bg-blue-1"
+    },
+    {
+        "text": "groups",
+        "image": "no-image.png",
+        "className": "text-with-image bg-orange-1"
+    },
+    {
+        "text": "i",
+        "image": "",
+        "className": "only-text single-letter full-caps bg-yellow-1"
+    },
+    {
+        "text": "me",
+        "image": "",
+        "className": "only-text bg-yellow-1"
+    },
+    {
+        "text": "q",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "w",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "e",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "r",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "t",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "y",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "u",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "i",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "o",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "p",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "my",
+        "image": "",
+        "className": "only-text bg-yellow-1"
+    },
+    {
+        "text": "don't",
+        "image": "",
+        "className": "only-text bg-pink-1"
+    },
+    {
+        "text": "a",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "s",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "d",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "f",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "g",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "h",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "j",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "k",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "l",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "bksp",
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-1 key"
+    },
+    {
+        "text": "it",
+        "image": "",
+        "className": "only-text bg-yellow-1"
+    },
+    {
+        "text": "not",
+        "image": "",
+        "className": "only-text bg-pink-1"
+    },
+    {
+        "text": "shift<br>123",
+        "image": "",
+        "className": "only-text bg-yellow-1 key"
+    },
+    {
+        "text": "z",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "x",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "c",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "space",
+        "image": "",
+        "className": "only-text bg-yellow-2 key"
+    },
+    {
+        "text": "v",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "b",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "n",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": "m",
+        "image": "",
+        "className": "alphabet"
+    },
+    {
+        "text": ".",
+        "image": "",
+        "className": "only-text single-letter full-caps bg-blue-1"
+    },
+    {
+        "text": "he",
+        "image": "",
+        "className": "only-text bg-yellow-1"
+    },
+    {
+        "text": "is",
+        "image": "",
+        "className": "only-text bg-blue-1"
+    },
+    {
+        "text": "to",
+        "image": "",
+        "className": "only-text bg-blue-1"
+    },
+    {
+        "text": "be-",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "come",
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
+    },
+    {
+        "text": "eat",
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
+    },
+    {
+        "text": "drink",
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
+    },
+    {
+        "text": "feel",
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
+    },
+    {
+        "text": "at",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "and",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "a-",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "the",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "she",
+        "image": "",
+        "className": "only-text bg-yellow-1"
+    },
+    {
+        "text": "are",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "de",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "did",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "go",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "get",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "help",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "like",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "for",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "in",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "on",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "that",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "they",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "was",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "can",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "could",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "listen",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "make",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "play",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "put",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "read",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "of",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "off",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "this",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "we",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "have",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "will",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "would",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "say",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "see",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "stop",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "take",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "talk",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "up",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "out",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "extra",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "you",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "your",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "actions",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "want",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "tell",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "think",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "turn",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "watch",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "work",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "down",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "with",
+        "image": "",
+        "className": "only-text bg-green-1"
+    },
+    {
+        "text": "clear",
+        "image": "",
+        "className": "only-text bg-green-1 key"
+    }
+]

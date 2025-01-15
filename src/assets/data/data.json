@@ -321,23 +321,23 @@
     },
     {
         "text": "go",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "get",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "help",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "like",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "for",
@@ -381,28 +381,28 @@
     },
     {
         "text": "listen",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "make",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "play",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "put",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "read",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "of",
@@ -441,33 +441,33 @@
     },
     {
         "text": "say",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "see",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "stop",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "take",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "talk",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "up",
-        "image": "",
-        "className": "only-text bg-blue-2"
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-2"
     },
     {
         "text": "out",
@@ -476,8 +476,8 @@
     },
     {
         "text": "extra",
-        "image": "",
-        "className": "only-text bg-blue-4"
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-4"
     },
     {
         "text": "you",
@@ -491,43 +491,43 @@
     },
     {
         "text": "actions",
-        "image": "",
-        "className": "only-text bg-green-2"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-2"
     },
     {
         "text": "want",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "tell",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "think",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "turn",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "watch",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "work",
-        "image": "",
-        "className": "only-text bg-green-1"
+        "image": "no-image.png",
+        "className": "text-with-image bg-green-1"
     },
     {
         "text": "down",
-        "image": "",
-        "className": "only-text bg-blue-2"
+        "image": "no-image.png",
+        "className": "text-with-image bg-blue-2"
     },
     {
         "text": "with",

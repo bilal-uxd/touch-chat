@@ -10,12 +10,17 @@ function App() {
   const onClickCard = (card) => {
     console.log('card',card);
 
-    const isKey = card.className.includes('key');
+    const isKey = card?.className?.includes('key');
+    const isClear = card?.text?.includes('clear');
 
     if (!isKey) {
       handleTextToSpeech(card?.text);
       setInputCards([...inputCards, card]);
-    }
+    } 
+
+    if(isClear) {
+      setInputCards([])
+    };
   };
 
   const handleTextToSpeech = (text) => {

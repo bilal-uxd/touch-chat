@@ -282,22 +282,22 @@
     {
         "text": "at",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "and",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "a-",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-pink-2"
     },
     {
         "text": "the",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-pink-2"
     },
     {
         "text": "she",
@@ -307,17 +307,17 @@
     {
         "text": "are",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "de",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "did",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "go",
@@ -342,42 +342,42 @@
     {
         "text": "for",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "in",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "on",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "that",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-pink-2"
     },
     {
         "text": "they",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-yellow-1"
     },
     {
         "text": "was",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "can",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "could",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "listen",
@@ -407,37 +407,37 @@
     {
         "text": "of",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "off",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "this",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-pink-2"
     },
     {
         "text": "we",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-yellow-1"
     },
     {
         "text": "have",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "will",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "would",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-1"
     },
     {
         "text": "say",
@@ -467,32 +467,32 @@
     {
         "text": "up",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "out",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "extra",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-4"
     },
     {
         "text": "you",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-yellow-1"
     },
     {
         "text": "your",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-yellow-1"
     },
     {
         "text": "actions",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-green-2"
     },
     {
         "text": "want",
@@ -527,16 +527,16 @@
     {
         "text": "down",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "with",
         "image": "",
-        "className": "only-text bg-green-1"
+        "className": "only-text bg-blue-2"
     },
     {
         "text": "clear",
         "image": "",
-        "className": "only-text bg-green-1 key"
+        "className": "only-text bg-pink-2 key"
     }
 ]

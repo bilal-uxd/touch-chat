@@ -95,6 +95,10 @@
     background-color: #82ADFF;
   }
 
+  & .bg-blue-4 {
+    background-color: #00a6e6;
+  }
+
   & .bg-violet-1 {
     background-color: #A285FD;
   }
@@ -115,8 +119,16 @@
     background-color: #A476AC;
   }
 
+  & .bg-pink-2 {
+    background-color: #8E9BDD;
+  }
+
   & .bg-green-1 {
-    background-color: #3A8799;
+    background-color: #4EB1C5;
+  }
+  
+  & .bg-green-2 {
+    background-color: #2fad9f;
   }
 
   & .only-text {
